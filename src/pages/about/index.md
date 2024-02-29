@@ -3,17 +3,20 @@ templateKey: 'about-page'
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Sejarah Singkat Yayasan Generasi Kasih Indonesia
+Yayasan Generasi Kasih Indonesia berawal mendirikan tahapan kelompok bermain (dengan memaksimalkan usia anak 0-3 tahun) dengan system Pendidikan local yang dikolaborasi dengan ajaran kristiani yang berjumlah 14 anak. Sesuai dengan perkembangnya dan kepercayaan orangtua sekolah tersebut bertambah jumlah anaknya menjadi 23 ditahun kedua. Kemudian bertambah lagi menjadi 55 anak hingga pada saat ini.
+Kelompok Bermain dan TK Generasi Kasih GKI Juwana yang menyelenggarakan adalah Yayasan Generasi Kasih Indonesia. Sekolah ini terletak di Jl. Sunan Ngerang 50A, Desa Kudukeras, Kecamatan Juwana, Kabupaten Pati, Provinsi Jawa Tengah. Sekolah Generasi Kasih ini didirikan oleh Majelis Jemaat GKI Juwana pada tanggal 3 Juni 2018. Sekolah ini berdiri di atas luas tanah  ± 1179 m2.
+##
+Sarana dan prasarana yang ada pada saat ini seperti gedung dan alat-alat bermain serta fasilitas yang lain memenuhi standar minimal. Meskipun ada kekurangan, kami berusaha untuk mengadakan perkembangan dan penambahan sarana belajar serta permainan.  Para guru di harapkan dapat bekerja keras untuk kemajuan dan perkembangan KB dan TK Generasi Kasih. Sekolah ini merupakan pendidikan formal yang berada di Desa Kudukeras,  Kecamatan Juwana,  Kabupaten Pati, merupakan sekolah Kristen yang sedang berkembang dan dikenal oleh masyarakat umum secara khusus warga beragama Kristen.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### KB-TK Generasi Kasih Indonesia
+Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun oleh satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan Generasi Kasih Indonesia, Majelis Jemaat GKI Juwana.
+Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### VISI
+Mewujudkan generasi berbudi pekerti luhur, cerdas, terampil, berkarakter kasih dan peduli.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### MISI
+Mengembangkan nilai-nilai religiusitas.
+## 
+Mengupayakan suasana sekolah yang memiliki kasih dan persaudaraan sejati.

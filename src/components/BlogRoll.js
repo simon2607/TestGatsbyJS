@@ -52,9 +52,9 @@ const BlogRollTemplate = (props) => {
                 {post.excerpt}
                 <br />
                 <br />
-                <Link className="button" to={post.fields.slug}>
+                {/* <Link className="button" to={post.fields.slug}>
                   Keep Reading →
-                </Link>
+                </Link> */}
               </p>
             </article>
           </div>

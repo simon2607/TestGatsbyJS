@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import github from "../img/12.png";
+import logo from "../img/GENKA.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="GENKA" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
@@ -45,33 +45,33 @@ const Navbar = () => {
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/products">
-              Products
+              Program
             </Link>
           </li>
-          <li className="navbar-item" style={{ padding: "0px" }}>
+          {/* <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/blog">
               Blog
             </Link>
-          </li>
-          <li className="navbar-item" style={{ padding: "0px" }}>
+          </li> */}
+          {/* <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/contact">
               Contact
             </Link>
-          </li>
-          <li className="navbar-item" style={{ padding: "0px" }}>
+          </li> */}
+          {/* <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/contact/examples">
               Form Examples
             </Link>
-          </li>
+          </li> */}
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/decaporg/gatsby-plugin-decap-cms"
+              href="https://api.whatsapp.com/send?phone=6288909993333&text=Halo%20Saya%20Ingin%20Bertanya%20Tentang%20Sekolah%20GENKA"
               target="_blank"
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="Github" />
+                <img src={github} alt="GENKA" />
               </span>
             </a>
           </li>

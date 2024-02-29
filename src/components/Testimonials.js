@@ -6,11 +6,11 @@ const Testimonials = ({ testimonials }) => (
   <div>
     {testimonials.map((testimonial) => (
       <article key={v4()} className="message">
-        <div className="message-body">
+        {/* <div className="message-body">
           {testimonial.quote}
           <br />
           <cite> – {testimonial.author}</cite>
-        </div>
+        </div> */}
       </article>
     ))}
   </div>

@@ -26,13 +26,13 @@ export const ProductPageTemplate = ({
 
   return (
     <div className="content">
-      <FullWidthImage img={heroImage} title={title} />
+      <FullWidthImage img={heroImage}  />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">
               <div className="column is-7 is-offset-1">
-                <h3 className="has-text-weight-semibold is-size-2">
+                <h3 className="has-text-weight-semibold is-size-4">
                   {heading}
                 </h3>
                 <p>{description}</p>
@@ -43,10 +43,10 @@ export const ProductPageTemplate = ({
                 <Features gridItems={intro.blurbs} /> 
                 <div className="columns">
                   <div className="column is-7">
-                    <h3 className="has-text-weight-semibold is-size-3">
+                    <h3 className="has-text-weight-semibold is-size-5">
                       {main.heading}
                     </h3>
-                    <p>{main.description}</p>
+                    {/* <p>{main.description}</p> */}
                   </div>
                 </div>
                 <div className="tile is-ancestor">
@@ -82,11 +82,11 @@ export const ProductPageTemplate = ({
           <div className="section">
             <div className="columns">
               <div className="column is-10 is-offset-1">
-                <h2 className="has-text-weight-semibold is-size-2">
+                {/* <h2 className="has-text-weight-semibold is-size-2">
                   {pricing.heading}
                 </h2>
                 <p className="is-size-5">{pricing.description}</p>
-                <Pricing data={pricing.plans} />
+                <Pricing data={pricing.plans} /> */}
               </div>
             </div>
           </div>
