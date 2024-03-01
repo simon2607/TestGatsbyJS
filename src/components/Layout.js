@@ -24,7 +24,7 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-32x32.png`}
+          href={`${withPrefix("/")}img/logoo.png`}
           sizes="32x32"
         />
         <link
