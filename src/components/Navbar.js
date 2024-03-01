@@ -4,7 +4,7 @@ import github from "../img/12.png";
 import logo from "../img/GENKA.png";
 
 const Navbar = () => {
-  const [isActive, setIsActive] = useState(false);
+  const [isActive, ] = useState(false);
 
   return (
     <nav
@@ -18,7 +18,7 @@ const Navbar = () => {
             <img src={logo} alt="GENKA" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
-          <button
+          {/* <button
             className={`navbar-burger burger ${isActive && "is-active"}`}
             aria-expanded={isActive}
             onClick={() => setIsActive(!isActive)}
@@ -26,7 +26,7 @@ const Navbar = () => {
             <span />
             <span />
             <span />
-          </button>
+          </button> */}
         </div>
         <ul
           id="navMenu"
@@ -44,7 +44,7 @@ const Navbar = () => {
             </Link>
           </li>
           <li className="navbar-item" style={{ padding: "0px" }}>
-            <Link className="navbar-item" to="/products">
+            <Link className="navbar-item" to="/programs">
               Program
             </Link>
           </li>

@@ -5,12 +5,12 @@ import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
-import Pricing from "../components/Pricing";
+// import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
 
 // eslint-disable-next-line
-export const ProductPageTemplate = ({
+export const ProgramPageTemplate = ({
   image,
   title,
   heading,
@@ -96,7 +96,7 @@ export const ProductPageTemplate = ({
   );
 };
 
-ProductPageTemplate.propTypes = {
+ProgramPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -120,12 +120,12 @@ ProductPageTemplate.propTypes = {
   }),
 };
 
-const ProductPage = ({ data }) => {
+const ProgramPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
-      <ProductPageTemplate
+      <ProgramPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
@@ -140,7 +140,7 @@ const ProductPage = ({ data }) => {
   );
 };
 
-ProductPage.propTypes = {
+ProgramPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -148,10 +148,10 @@ ProductPage.propTypes = {
   }),
 };
 
-export default ProductPage;
+export default ProgramPage;
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
+export const ProgramPageQuery = graphql`
+  query ProgramPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title

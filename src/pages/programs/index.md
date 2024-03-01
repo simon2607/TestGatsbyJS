@@ -1,6 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: 'program-page'
+path: /programs
 title: Our Coffee
 image: /img/finish1.jpg
 heading: Kegiatan - kegiatan di sekolah KB - TK Generasi Kasih 
@@ -28,7 +28,7 @@ intro:
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
+    programion, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Photo Bersama Murid dan Ibu Guru KB - TK Generasi Kasih

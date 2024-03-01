@@ -11,7 +11,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Features
 
 - A simple landing page with blog functionality built with Decap CMS
-- Editable Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
+- Editable Pages: Landing, About, program, Blog-Collection and Contact page with Netlify Form support
 - Create Blog posts from decap CMS
 - Tags: Separate page for posts under each tag
 - Basic directory organization
@@ -49,9 +49,9 @@ $ yarn
 $ netlify dev # or ntl dev
 ```
 
-This uses [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `netlify/functions` folder.
+This uses [Netlify Dev](https://www.netlify.com/programs/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `netlify/functions` folder.
 
-To test the CMS locally, you'll need to run a production build of the site:
+To test the CMS locally, you'll need to run a programion build of the site:
 
 ```
 $ npm run build
@@ -69,7 +69,7 @@ import CMS from "decap-cms-app";
 
 import AboutPagePreview from "./preview-templates/AboutPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
-import ProductPagePreview from "./preview-templates/ProductPagePreview";
+import ProgramPagePreview from "./preview-templates/ProgramPagePreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 // CMS.registerMediaLibrary(uploadcare);
@@ -77,7 +77,7 @@ import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
-CMS.registerPreviewTemplate("products", ProductPagePreview);
+CMS.registerPreviewTemplate("programs", ProgramPagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);
 ```
 
@@ -105,7 +105,7 @@ $ npm run start
 
 ### Setting up the CMS
 
-Follow the [Decap CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting for production.
+Follow the [Decap CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting for programion.
 
 If you want use Decap CMS locally, run the site in one terminal with `npm run start` and in another
 Terminal you can use `npx netlify-cms-proxy-server` which proxy requests so you'll be automatically logged
@@ -118,7 +118,7 @@ To resolve, make sure that you have both Python 2.7 and the Visual C++ build env
 
 ```
 npm config set python python2.7
-npm install --global --production windows-build-tools
+npm install --global --programion windows-build-tools
 ```
 
 [Full details here](https://www.npmjs.com/package/node-gyp "NPM node-gyp page").
