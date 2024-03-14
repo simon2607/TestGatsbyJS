@@ -5,7 +5,7 @@ import { getImage } from "gatsby-plugin-image";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
-// import Pricing from "../components/Pricing";
+
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import FullWidthImage from "../components/FullWidthImage";
 
@@ -150,7 +150,7 @@ ProgramPage.propTypes = {
 
 export default ProgramPage;
 
-export const ProgramPageQuery = graphql`
+export const programPageQuery = graphql`
   query ProgramPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {

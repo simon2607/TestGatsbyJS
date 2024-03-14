@@ -80,7 +80,7 @@ export default class Contact extends React.Component {
                 </div>
                 <div className="field">
                   <div className="file">
-                    <label className="file-label">
+                    {/* <label className="file-label">
                       <input
                         className="file-input"
                         type="file"
@@ -90,7 +90,7 @@ export default class Contact extends React.Component {
                       <span className="file-cta">
                         <span className="file-label">Choose a file…</span>
                       </span>
-                    </label>
+                    </label> */}
                   </div>
                 </div>
                 <div className="field">

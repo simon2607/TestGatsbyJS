@@ -4,7 +4,7 @@ import cloudinary from 'decap-cms-media-library-cloudinary'
 
 import AboutPagePreview from './preview-templates/AboutPagePreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
-import ProgramPagePreview from './preview-templates/ProgramPagePreview'
+import ProductPagePreview from './preview-templates/ProductPagePreview'
 import IndexPagePreview from './preview-templates/IndexPagePreview'
 
 CMS.registerMediaLibrary(uploadcare)
@@ -12,5 +12,5 @@ CMS.registerMediaLibrary(cloudinary)
 
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('programs', ProgramPagePreview)
+CMS.registerPreviewTemplate('programs', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
