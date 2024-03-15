@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: "TK Generasi Kasih Indonesia | Sekolah Kristen Terbaik di Juwana",
-    description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
-  },
+    description: "Sekolah TK Generasi Kasih Indonesia",
+    url: "https://tkgenerasikasih.sch.id,", 
+    keywords: "tk generasi kasih indonesia, tk kristen generasi kasih indonesia",
+
+    },
   plugins: [
     "gatsby-plugin-react-helmet",
     {
