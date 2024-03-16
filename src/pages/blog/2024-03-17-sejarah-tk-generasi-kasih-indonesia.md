@@ -13,8 +13,10 @@ tags:
   - Paud Generasi Kasih
   - TK di Pati
   - TK di Pati Juwana
-  - Pendidikan Anak Usia Dini Generasi Kasi
+  - Pendidikan Anak Usia Dini Generasi Kasih
   - TK di Jawa Tengah
+  - Visi dan Misi TK Kristen
+  - Visi dan Misi TK Kristen Generasi Kasih
 ---
 ![flavor Home](/img/finish2.jpg)
 

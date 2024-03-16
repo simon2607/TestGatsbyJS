@@ -23,6 +23,13 @@ tags:
   - mengasyikkan
   - menyenangkan
   - kreativitas anak
+  - visi dan misi 
+  - visi dan misi generasi kasih
+  - visi dan misi tk kristen
+  - visi dan misi kb/tk generasi kasih
+  - visi dan misi tk kristen juwana
+  - visi dan misi tk kristen pati
+  - visi dan misi tk kristen jawa tengah
 ---
 
 Masih Bingung Cari TK Kristen di Juwana?
