@@ -10,6 +10,7 @@ tags:
   - TK Kristen Pati Juwana
   - TK Kristen 
   - KB/TK Generasi Kasih Indonesia
+  - Paud Generasi Kasih
 ---
 ![flavor wheel](/img/finish2.jpg)
 
