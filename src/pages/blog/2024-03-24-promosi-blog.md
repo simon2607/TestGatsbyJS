@@ -28,7 +28,9 @@ tags:
 
     Staf pengajar kami terdiri dari para profesional yang berpengalaman, memiliki dedikasi tinggi terhadap pendidikan anak-anak, dan siap membantu setiap anak untuk meraih potensinya secara penuh.
 
-    angan lewatkan kesempatan untuk memberikan yang terbaik bagi masa depan buah hati Anda. Hubungi kami hari ini untuk informasi lebih lanjut dan jadwalkan kunjungan ke TK Generasi Kasih.
+## 
+
+    jangan lewatkan kesempatan untuk memberikan yang terbaik bagi masa depan buah hati Anda. Hubungi kami hari ini untuk informasi lebih lanjut dan jadwalkan kunjungan ke TK Generasi Kasih.
 
     Hubungi Kami: Telp: 0295 471680, 
     Email: paudgenerasikasih@gmail.com 
