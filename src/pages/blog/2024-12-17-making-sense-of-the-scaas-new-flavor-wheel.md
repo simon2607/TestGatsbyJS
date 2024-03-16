@@ -1,15 +1,15 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: TK Generasi Kasih Indonesia | Sekolah Kristen Terbaik di Juwana
+date: 2024-03-17T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/finish2.jpg
+description: Official Website TK Generasi Kasih Indonesia dikembangkan dengan GatsbyJs.
 tags:
-  - flavor
-  - tasting
+  - TK Generasi Kasih Indonesia
+  - TK Kristen Pati Juwana
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/finish2.jpg)
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 

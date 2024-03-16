@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: TK Generasi Kasih Indonesia
 image: /img/finish2.jpg
 heading: KB-TK Generasi Kasih Indonesia
 subheading: Support sustainable farming while enjoying a cup

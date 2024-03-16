@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: TK Generasi Kasih Indonesia
+about: TK Generasi Kasih Indonesia Dikembangkan Menggunakan GatsbyJs
+title: 'TK Generasi Kasih Indonesia'
 labels: ''
 assignees: ''
 
