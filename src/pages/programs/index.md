@@ -3,7 +3,7 @@ templateKey: 'program-page'
 path: /programs
 title: Our Coffee
 image: /img/finish1.jpg
-heading: Kegiatan - kegiatan di sekolah KB - TK Generasi Kasih 
+heading: Program Kegiatan - Kegiatan di Sekolah KB - TK Generasi Kasih 
 description: >-
   Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
   Berikut adalah kegiatan-kegiatan di sekolah:
@@ -24,27 +24,21 @@ intro:
     - image: /img/natalgenka.jpg
       text: >
         KB - TK Generasi Kasih kegiatan merayakan natal tahunan bersama setiap setahun sekali.
-  heading: What we offer
+  heading: Guru Pengajar
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    programion, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Selain itu, staf pengajar kami terdiri dari para profesional yang berpengalaman dan penuh dedikasi dalam mendukung perkembangan setiap anak. Mereka tidak hanya menjadi pengajar, tetapi juga menjadi teman dan teladan bagi anak-anak kami.
 main:
   heading: Photo Bersama Murid dan Ibu Guru KB - TK Generasi Kasih
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+   Kami percaya bahwa pendidikan adalah perjalanan kolaboratif antara sekolah, orangtua, dan komunitas. Oleh karena itu, kami sangat menghargai keterlibatan orangtua dalam setiap aspek pembelajaran anak-anak kami. Bersama-sama, kami membentuk lingkungan yang mendukung, memotivasi, dan memperkuat setiap anak untuk mencapai potensi terbaik mereka.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: TK Kristen Juwana
     image: /img/TKB2.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: TK Generasi Kasih
     image: /img/KB2.JPG
   image3:
-    alt: Coffee beans
+    alt: Kegiatan Pembelajaran Anak TK
     image: /img/TKA2.JPG
 testimonials:
   - author: Elisabeth Kaurismäki
