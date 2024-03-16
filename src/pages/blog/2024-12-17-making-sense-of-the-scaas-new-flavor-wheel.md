@@ -2,17 +2,17 @@
 templateKey: blog-post
 title: TK Generasi Kasih Indonesia | Sekolah Kristen Terbaik di Juwana
 date: 2024-03-17T15:04:10.000Z
+description: Official Website TK Generasi Kasih Indonesia dikembangkan dengan GatsbyJs.
 featuredpost: false
 featuredimage: /img/finish2.jpg
-description: Official Website TK Generasi Kasih Indonesia dikembangkan dengan GatsbyJs.
 tags:
   - TK Generasi Kasih Indonesia
   - TK Kristen Pati Juwana
-  - TK Kristen 
+  - TK Kristen
   - KB/TK Generasi Kasih Indonesia
   - Paud Generasi Kasih
 ---
-![flavor wheel](/img/finish2.jpg)
+![Home Page](/img/finish2.jpg "TK Generasi Kasih Indonesia | Sekolah Kristen Terbaik di Juwana")
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
