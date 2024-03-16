@@ -8,6 +8,8 @@ description: Official Website TK Generasi Kasih Indonesia dikembangkan dengan Ga
 tags:
   - TK Generasi Kasih Indonesia
   - TK Kristen Pati Juwana
+  - TK Kristen 
+  - KB/TK Generasi Kasih Indonesia
 ---
 ![flavor wheel](/img/finish2.jpg)
 
