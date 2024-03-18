@@ -53,7 +53,7 @@ main:
   description: >
     "Selamat datang di TK Generasi Kasih Indonesia, tempat di mana pendidikan
     berkualitas bertemu dengan inovasi dan keunggulan. Sebagai salah satu
-    sekolah terkemuka di Juwana, kami berkomitmen untuk memberikan lingkungan
+    sekolah kristen di Juwana, kami berkomitmen untuk memberikan lingkungan
     belajar yang inspiratif dan mendukung perkembangan holistik setiap siswa.
     Dengan kurikulum yang berbasis pada standar akademik yang tinggi dan
     pendekatan pembelajaran yang berpusat pada siswa, kami mempersiapkan
