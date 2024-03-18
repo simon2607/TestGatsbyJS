@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "TK Generasi Kasih Indonesia | Sekolah Kristen Terbaik di Juwana",
-    description: "Sekolah TK Generasi Kasih Indonesia",
+    description: "Sekolah Kristten TK Generasi Kasih Indonesia",
     url: "https://tkgenerasikasih.sch.id,", 
-    keywords: "tk generasi kasih indonesia, tk kristen generasi kasih indonesia",
+
 
     },
   plugins: [
