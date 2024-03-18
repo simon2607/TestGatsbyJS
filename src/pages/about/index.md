@@ -13,7 +13,7 @@ Sarana dan prasarana yang ada pada saat ini seperti gedung dan alat-alat bermain
 Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun oleh satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan Generasi Kasih Indonesia, Majelis Jemaat GKI Juwana.
 Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
 
-### VISI dan Misi TK Kristen Generasi Kasih Juwana
+### VISI dan Misi TK Kristen Generasi Kasih Juwana 
 
 ### VISI
 Mewujudkan generasi berbudi pekerti luhur, cerdas, terampil, berkarakter kasih dan peduli.

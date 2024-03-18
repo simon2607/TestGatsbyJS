@@ -7,6 +7,10 @@ description: >-
   Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
 tags:
   - taman kanak kanak
+  - sekolah kristen
+  - sekolah kristen terbaik di juwana 
+  - sekoalh kristen terbaik di pati
+  - sekolah kristen terbaik
   - taman kanak kanak terdekat
   - taman kanak kanak in english is
   - taman kanak kanak kristen

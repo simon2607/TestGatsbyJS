@@ -10,7 +10,12 @@ description: Lingkungan belajar yang nyaman, fasilitas bermain yang aman, dan
 featuredpost: false
 featuredimage: /img/finish3.jpg
 tags:
-  - background taman kanak kanak
+  - background taman kanak kanak 
+  - sekolah kristen
+  - sekolah kristen terbaik di juwana
+  - sekolah kristen terbaik di jawa 
+  - sekolah kristen terbaik di jawa tengah
+  - sekoalh kristen terbaik di pati
   - taman kanak kanak
   - akreditasi taman kanak kanak
   - kurikulum taman kanak kanak
