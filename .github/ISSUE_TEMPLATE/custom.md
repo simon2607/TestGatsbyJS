@@ -1,14 +1,14 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+name: TK Generasi Kasih Indonesia
+about: Sejarah Singkat TK Generasi Kasih Indonesia | Visi dan Misi TK Generasi Kasih
+title: 'Sekolah Kristen Terbaik di Juwana'
 labels: ''
 assignees: ''
 
 ---
 
 ---
-name: Other
+name: About
 about: Something else
 
 ---

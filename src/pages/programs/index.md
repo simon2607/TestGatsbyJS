@@ -1,11 +1,11 @@
 ---
 templateKey: 'program-page'
 path: /programs
-title: Our Coffee
+title: Sekolah Kristen KB dan TK Generasi Kasih 
 image: /img/finish1.jpg
 heading: Program Kegiatan - Kegiatan di Sekolah KB - TK Generasi Kasih 
 description: >-
-  Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
+  Sekolah Kristen KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
   Berikut adalah kegiatan-kegiatan di sekolah:
 intro:
   blurbs:

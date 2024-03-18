@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: TK Generasi Kasih Indonesia
+about: TK Generasi Kasih Memiliki Guru Pengajar Berpengalaman
+title: 'Sekolah Kristen Terbaik di Jawa Tengah | TK Generasi Kasih Indonesia'
 labels: ''
 assignees: ''
 
