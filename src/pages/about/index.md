@@ -1,7 +1,7 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Our Values
 ---
 ### Sejarah Singkat Yayasan Generasi Kasih Indonesia
 Yayasan Generasi Kasih Indonesia berawal mendirikan tahapan kelompok bermain (dengan memaksimalkan usia anak 0-3 tahun) dengan system Pendidikan local yang dikolaborasi dengan ajaran kristiani yang berjumlah 14 anak. Sesuai dengan perkembangnya dan kepercayaan orangtua sekolah tersebut bertambah jumlah anaknya menjadi 23 ditahun kedua. Kemudian bertambah lagi menjadi 55 anak hingga pada saat ini.
