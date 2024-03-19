@@ -6,9 +6,15 @@ featuredpost: false
 featuredimage: /img/finish2.jpg
 description: Official Website TK Generasi Kasih Indonesia dikembangkan dengan GatsbyJs.
 tags:
-  - TK Generasi Kasih Indonesia
+  - TK Generasi Kasih Indonesia 
+  - TK Generasi
   - TK Kristen Pati Juwana
   - TK Kristen 
+  - Sekolah Kristen Terbaik di Juwana
+  - Sekolah Kristen Terbaik di Jawa Tengah
+  - Sekolah Kristen Terbaik di Pati
+  - Sekolah Kristen
+  - Sekolah Kristen Terbaik di
   - KB/TK Generasi Kasih Indonesia
   - Paud Generasi Kasih
   - TK di Pati
@@ -17,6 +23,8 @@ tags:
   - TK di Jawa Tengah
   - Visi dan Misi TK Kristen
   - Visi dan Misi TK Kristen Generasi Kasih
+  - Kurikulum Pembelajaran
+  - Kurikulum
 ---
 ![flavor Home](/img/finish2.jpg)
 

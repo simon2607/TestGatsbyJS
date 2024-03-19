@@ -66,7 +66,7 @@ main:
     alt: Foto Bersama Guru dan Murid TK Generasi Kasih Indonesia
     image: /img/TKA2.JPG
   image1:
-    alt: Backgorund anak tk kristen
+    alt: Sekolah Kristen
     image: /img/products-grid1.jpg
   image2:
     alt: TK Kristen Juwana

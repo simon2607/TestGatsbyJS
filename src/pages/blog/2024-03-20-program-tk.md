@@ -1,16 +1,21 @@
 ---
 templateKey: 'blog-post'
-title: 'Program Kegiatan-Kegiatan Sekolah TK Generasi Kasih'
+title: 'Program Kegiatan-Kegiatan Sekolah Kristen TK Generasi Kasih'
 date: 2024-03-20T15:04:10.000Z
 featuredpost: true
 description: >-
-  Sekolah KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
+  Sekolah Kristen KB dan TK Generasi Kasih hendaknya bersifat mendidik, mencerdaskan, membangkitkan aktivitas dan kreativitas anak, efektif, demokratis, menantang, menyenangkan, dan mengasyikkan.
 tags:
   - taman kanak kanak
   - sekolah kristen
   - sekolah kristen terbaik di juwana 
   - sekoalh kristen terbaik di pati
   - sekolah kristen terbaik
+  - sekolah kristen terbaik di indonesia
+  - sekolah kristen terbaik di semarang
+  - sekolah kristen terbaik di jawa 
+  - sekolah kristen terbaik di jawa tengah
+  - sekolah kristen terdekat
   - taman kanak kanak terdekat
   - taman kanak kanak in english is
   - taman kanak kanak kristen
