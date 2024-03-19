@@ -19,6 +19,7 @@ tags:
   - Paud Generasi Kasih Indonesia
   - KB/TK Generasi Kasih Indonesia
   - Paud Generasi Kasih
+  - GKI Juwana
   - TK di Pati
   - TK di Pati Juwana
   - Pendidikan Anak Usia Dini Generasi Kasih
