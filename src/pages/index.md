@@ -2,16 +2,20 @@
 templateKey: index-page
 title: TK Generasi Kasih Indonesia
 image: /img/finish2.jpg
-heading: KB-TK Generasi Kasih Indonesia
+heading: Selamat Datang di Website Sekolah Kristen TK Generasi Kasih di Kabupaten Pati Juwana Jawa Tengah
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
+  heading: KB-TK Generasi Kasih Indonesia
   title: Masih Bingung Cari TK Kristen di Juwana?
   description: >
-    TK Generasi Kasih hadir dengan pendekatan pembelajaran yang inovatif dan
+    Sekolah Kristen TK Generasi Kasih hadir dengan pendekatan pembelajaran yang inovatif dan
     penuh kasih sayang, dan menjadi tempat belajar yang menyenangkan dan kreatif
     bagi anak-anak. Bergabunglah dengan kami untuk menciptakan fondasi
     pendidikan yang kokoh bagi masa depan cerah anak Anda.
-description: Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
+description: 
+  Selamat datang di Sekolah Kristen TK Generasi Kasih, tempat di mana setiap anak diperlakukan dengan penuh kasih sayang dan diberikan kesempatan untuk berkembang secara holistik. Kami adalah sebuah lembaga pendidikan anak usia dini yang berkomitmen untuk memberikan pengalaman belajar yang menyenangkan, inspiratif, dan bermakna bagi setiap siswa.
+
+  Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
   perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun oleh
   satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan Generasi
   Kasih Indonesia, Majelis Jemaat GKI Juwana. Sekolah KB dan TK Generasi Kasih
@@ -40,7 +44,8 @@ intro:
         KB - TK Generasi Kasih kegiatan merayakan natal tahunan bersama setiap
         setahun sekali
   heading: TK Kristen Generasi Kasih Indonesia
-  description: Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
+  description: 
+    Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
     perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun
     oleh satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan
     Generasi Kasih Indonesia, Majelis Jemaat GKI Juwana. Sekolah KB dan TK

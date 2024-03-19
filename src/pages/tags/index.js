@@ -21,6 +21,7 @@ const TagsPage = ({
             className="column is-10 is-offset-1"
             style={{ marginBottom: "6rem" }}
           >
+            
             <h1 className="title is-size-2 is-bold-light">Tags</h1>
             <ul className="taglist">
               {group.map((tag) => (
@@ -45,6 +46,7 @@ export const tagPageQuery = graphql`
     site {
       siteMetadata {
         title
+        description
       }
     }
     allMarkdownRemark(limit: 1000) {
