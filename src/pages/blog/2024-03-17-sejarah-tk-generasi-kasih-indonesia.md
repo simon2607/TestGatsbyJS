@@ -15,6 +15,8 @@ tags:
   - Sekolah Kristen Terbaik di Pati
   - Sekolah Kristen
   - Sekolah Kristen Terbaik di
+  - Sejarah Singkat TK Generasi Kasih Indonesia
+  - Paud Generasi Kasih Indonesia
   - KB/TK Generasi Kasih Indonesia
   - Paud Generasi Kasih
   - TK di Pati

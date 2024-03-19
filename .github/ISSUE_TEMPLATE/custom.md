@@ -1,7 +1,8 @@
 ---
 name: TK Generasi Kasih Indonesia
 about: Sejarah Singkat TK Generasi Kasih Indonesia | Visi dan Misi TK Generasi Kasih
-title: 'Sekolah Kristen Terbaik di Juwana'
+title: 'Sekolah Kristen Terbaik di Juwana, Sekolah Kristen Terbaik di Pati, 
+        ,Sekolah Kristen Terbaik'
 labels: ''
 assignees: ''
 
