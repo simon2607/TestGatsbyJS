@@ -19,7 +19,7 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="apple-touch-icon"
           sizes="180x180"
-          href={`${withPrefix("/")}img/LOGO2.png`}
+          href={`${withPrefix("/")}img/LOGO2-min.png`}
         />
         <link
           rel="icon"
@@ -40,7 +40,6 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         /> */}
         <meta name="theme-color" content="#fff" />
-
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />

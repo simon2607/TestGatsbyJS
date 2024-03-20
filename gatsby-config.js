@@ -1,7 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: "TK Generasi Kasih Indonesia | Sekolah Kristen Terbaik di Juwana",
-    description: "Sekolah Kristen TK Generasi Kasih Indonesia, Sekolah Kristen",
+    description: "Sekolah Kristen TK Generasi Kasih Indonesia, Sekolah Kristen, TK Kristen di Juwana, pengalaman belajar yang memuaskan bagi anak Anda, Staf kami terdiri dari pendidikan yang berpengalaman yang peduli dan berdedikasi,", 
+    deskription: "",
+    subdescription:"",
     url: "https://tkgenerasikasih.sch.id,", 
 
     },

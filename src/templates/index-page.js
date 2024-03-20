@@ -16,6 +16,8 @@ export const IndexPageTemplate = ({
   subheading,
   mainpitch,
   description,
+  deskription,
+  subdescription,
   intro,
 }) => {
   const heroImage = getImage(image) || image;
@@ -38,18 +40,23 @@ export const IndexPageTemplate = ({
                       <div className="tile">
                     <h2 className="heading">{mainpitch.heading}</h2>
                     </div>
-                    <div className="tile">
-                    <p>{mainpitch.description}</p>
-                    </div>
-                    <div className="tile">
+                    <div >
                     <p>{description}</p>
+                    <br/>
+                    </div>
+                    <div>
+                    <p>{subdescription}</p>
                     <br/>
                     </div>
                     <div className="tile">
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
-                    <div className="tile">
-                      <p className="subtitle">{mainpitch.description}</p>
+                    <div>
+                      <p>{mainpitch.description}</p>
+                      <br/>
+                    </div>
+                    <div>
+                      <p>{mainpitch.deskription}</p>
                     </div>
                   </div>
                      
@@ -91,6 +98,8 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
+  deskription: PropTypes.string,
+  subdescription: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -108,6 +117,8 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
+        deskription={frontmatter.deskription}
+        subdescription={frontmatter.subdescription}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -140,8 +151,10 @@ export const pageQuery = graphql`
           title
           heading
           description
+          deskription
         }
         description
+        subdescription
         intro {
           blurbs {
             image {

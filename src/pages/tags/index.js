@@ -47,6 +47,10 @@ export const tagPageQuery = graphql`
       siteMetadata {
         title
         description
+        deskription
+        subdescription
+        
+        
       }
     }
     allMarkdownRemark(limit: 1000) {

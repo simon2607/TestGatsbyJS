@@ -52,6 +52,9 @@ export const tagPageQuery = graphql`
     site {
       siteMetadata {
         title
+        description
+        deskription
+        subdescription
       }
     }
     allMarkdownRemark(
@@ -67,6 +70,8 @@ export const tagPageQuery = graphql`
           }
           frontmatter {
             title
+            description
+            subdescription
           }
         }
       }
