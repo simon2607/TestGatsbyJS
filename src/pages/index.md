@@ -69,7 +69,7 @@ main:
     Kasih Indonesia dan lihatlah bagaimana kami menciptakan pengalaman
     pendidikan yang tak terlupakan."
   image3:
-    alt: Foto Bersama Guru dan Murid TK Generasi Kasih Indonesia
+    alt: KB TK Kristen di Juwana
     image: /img/tka2.jpg
   image1:
     alt: Sekolah Kristen
