@@ -70,7 +70,7 @@ main:
     pendidikan yang tak terlupakan."
   image3:
     alt: KB TK Kristen di Juwana
-    image: /img/tka2.jpg
+    image: /img/KB2.JPG
   image1:
     alt: Sekolah Kristen
     image: /img/products-grid1.jpg
