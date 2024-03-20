@@ -79,11 +79,11 @@ main:
     pendidikan yang tak terlupakan."
   image3:
     alt: Foto Bersama Guru dan Murid TK Generasi Kasih Indonesia
-    image: /img/TKA2.JPG
+    image: /img/TKA.jpg
   image1:
-    alt: Sekolah Kristen
-    image: /img/products-grid1.jpg
-  image2:
     alt: TK Kristen Juwana
-    image: /img/products-grid2.jpg
+    image: /img/TKB2.jpg
+  image2:
+    alt: TK Generasi Kasih
+    image: /img/KB2.JPG
 ---

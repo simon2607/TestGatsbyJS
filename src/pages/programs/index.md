@@ -39,7 +39,7 @@ main:
     image: /img/KB2.JPG
   image3:
     alt: Kegiatan Pembelajaran Anak TK
-    image: /img/TKA2.JPG
+    image: /img/TKA.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
