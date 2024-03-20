@@ -38,8 +38,8 @@ main:
     alt: TK Generasi Kasih
     image: /img/KB2.JPG
   image3:
-    alt: Kegiatan Pembelajaran Anak TK
-    image: /img/TKA.jpg
+    alt: Foto Bersama Guru dan Murid TK Generasi Kasih Indonesia
+    image: /img/TKA2.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-

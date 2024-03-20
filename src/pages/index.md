@@ -2,30 +2,32 @@
 templateKey: index-page
 title: TK Generasi Kasih Indonesia
 image: /img/finish2.jpg
-heading: Selamat Datang di Website Sekolah Kristen TK Generasi Kasih di Kabupaten Pati Juwana Jawa Tengah
+heading: Selamat Datang di Website Sekolah Kristen TK Generasi Kasih di
+         Kabupaten Pati Juwana Jawa Tengah
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   heading: KB-TK Generasi Kasih Indonesia
   title: Masih Bingung Cari TK Kristen di Juwana?
   description: >
-    TK Kristen di Juwana kami memiliki pendekatan pendidikan yang holistik, fokus pada pengembangan anak secara menyeluruh - dari aspek kognitif, sosial, hingga spiritual. Staf kami terdiri dari pendidikan yang  berpengalaman yang peduli dan berdedikasi, siap memberikan pengalaman belajar yang memuaskan bagi anak Anda.
-  deskription: >
-    Dengan fasilitas yang lengkap dan lingkungan belajar yang nyaman, kami memastikan setiap anak merasa dihargai dan didukung dalam perjalanan pendidikannya. Kurikulum kami dirancang untuk merangsang keingintahuan, kreativitas, dan kemampuan belajar anak-anak kami, sambil tetap memperhatikan nilai-nilai Kristen yang mendasar.
-    Jadi, jika Anda mencari TK Kristen di Juwana yang menawarkan pendidikan berkualitas tinggi dan lingkungan yang mendukung, jangan ragu untuk menghubungi kami hari ini. Daftarkan anak Anda sekarang dan saksikan pertumbuhan mereka yang luar biasa dalam suasana belajar yang penuh kasih dan inspiratif."
-description: 
-  "Selamat datang di Sekolah Kristen KB/TK Generasi Kasih Indonesia, tempat di mana pendidikan
-    berkualitas bertemu dengan inovasi dan keunggulan. Sebagai salah satu
-    sekolah kristen di Juwana, kami berkomitmen untuk memberikan lingkungan
-    belajar yang inspiratif dan mendukung perkembangan holistik setiap siswa.
-    Dengan kurikulum yang berbasis pada standar akademik yang tinggi dan
-    pendekatan pembelajaran yang berpusat pada siswa, kami mempersiapkan
-    generasi masa depan untuk menghadapi tantangan global. Temukan lebih banyak
-    tentang program unggulan kami, kegiatan ekstrakurikuler yang menarik, dan
-    fasilitas modern kami. Bergabunglah dengan komunitas kami di TK Generasi
-    Kasih Indonesia dan lihatlah bagaimana kami menciptakan pengalaman
-    pendidikan yang tak terlupakan."
-subdescription: 
-  Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
+    TK Kristen di Juwana kami memiliki pendekatan pendidikan yang holistik,
+    fokus pada pengembangan anak secara menyeluruh - dari aspek kognitif,
+    sosial, hingga spiritual. Staf kami terdiri dari pendidikan
+    yang  berpengalaman yang peduli dan berdedikasi, siap memberikan pengalaman
+    belajar yang memuaskan bagi anak Anda.
+  deskription: > 
+    Dengan fasilitas yang lengkap dan lingkungan belajar yang nyaman, kami
+    memastikan setiap anak merasa dihargai dan didukung dalam perjalanan
+    pendidikannya. Kurikulum kami dirancang untuk merangsang keingintahuan,
+    kreativitas, dan kemampuan belajar anak-anak kami, sambil tetap
+    memperhatikan nilai-nilai Kristen yang mendasar. Jadi, jika Anda mencari TK
+    Kristen di Juwana yang menawarkan pendidikan berkualitas tinggi dan
+    lingkungan yang mendukung, jangan ragu untuk menghubungi kami hari ini.
+    Daftarkan anak Anda sekarang dan saksikan pertumbuhan mereka yang luar biasa
+    dalam suasana belajar yang penuh kasih dan inspiratif."
+description:
+    Selamat datang di Sekolah Kristen KB/TK Generasi Kasih Indonesia, tempat di mana pendidikan berkualitas bertemu dengan inovasi dan keunggulan. Sebagai salah satu sekolah kristen di Juwana, kami berkomitmen untuk memberikan lingkungan belajar yang inspiratif dan mendukung perkembangan holistik setiap siswa. Dengan kurikulum yang berbasis pada standar akademik yang tinggi dan pendekatan pembelajaran yang berpusat pada siswa, kami mempersiapkan generasi masa depan untuk menghadapi tantangan global. Temukan lebih banyak tentang program unggulan kami, kegiatan ekstrakurikuler yang menarik, dan fasilitas modern kami. Bergabunglah dengan komunitas kami di TK Generasi Kasih Indonesia dan lihatlah bagaimana kami menciptakan pengalaman pendidikan yang tak terlupakan.
+subdescription:
+    Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
     perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun
     oleh satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan
     Generasi Kasih Indonesia, Majelis Jemaat GKI Juwana. Sekolah KB dan TK
@@ -54,8 +56,7 @@ intro:
         KB - TK Generasi Kasih kegiatan merayakan natal tahunan bersama setiap
         setahun sekali
   heading: TK Kristen Generasi Kasih Indonesia
-  description: 
-    Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
+  description: Kurikulum pembelajaran Generasi Kasih ini dikembangkan sebagai
     perwujudan dan kurikulum Pendidikan Anak Usia Dini. Kurikulum ini disusun
     oleh satu Tim Penyusun terdiri atas Kepala Sekolah, Guru, Pembina, Yayasan
     Generasi Kasih Indonesia, Majelis Jemaat GKI Juwana. Sekolah KB dan TK
@@ -79,11 +80,11 @@ main:
     pendidikan yang tak terlupakan."
   image3:
     alt: Foto Bersama Guru dan Murid TK Generasi Kasih Indonesia
-    image: /img/TKA.jpg
-  image1:
-    alt: TK Kristen Juwana
-    image: /img/TKB2.jpg
+    image: /img/TKA2.jpg
   image2:
     alt: TK Generasi Kasih
     image: /img/KB2.JPG
+  image1:
+    alt: TK Kristen Juwana
+    image: /img/products-grid2.jpg
 ---

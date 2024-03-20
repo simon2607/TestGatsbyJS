@@ -71,7 +71,6 @@ export const tagPageQuery = graphql`
           frontmatter {
             title
             description
-            subdescription
           }
         }
       }
