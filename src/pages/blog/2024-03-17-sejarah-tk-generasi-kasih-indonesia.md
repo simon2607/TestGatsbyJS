@@ -10,6 +10,8 @@ tags:
   - TK Generasi
   - TK Kristen Pati Juwana
   - TK Kristen 
+  - TK Kristen Pati
+  - TK Kristen Kabupaten Pati
   - Sekolah Kristen Terbaik di Juwana
   - Sekolah Kristen Terbaik di Jawa Tengah
   - Sekolah Kristen Terbaik di Pati
@@ -20,6 +22,7 @@ tags:
   - KB/TK Generasi Kasih Indonesia
   - Paud Generasi Kasih
   - GKI Juwana
+  - Paud Generasi Kasih
   - TK di Pati
   - TK di Pati Juwana
   - Pendidikan Anak Usia Dini Generasi Kasih

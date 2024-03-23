@@ -4,6 +4,7 @@ import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby";
 import Layout from "../../components/Layout";
 
+
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
@@ -13,6 +14,7 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
+     
     <section className="section">
       <Helmet title={`Tags | ${title}`} />
       <div className="container content">
