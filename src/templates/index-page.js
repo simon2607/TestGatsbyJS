@@ -117,8 +117,6 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
-        deskription={frontmatter.deskription}
-        subdescription={frontmatter.subdescription}
         intro={frontmatter.intro}
       />
     </Layout>

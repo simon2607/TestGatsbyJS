@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 import { Link, graphql } from "gatsby";
 import Layout from "../components/Layout";
 
+
 const TagRoute = (props) =>  {
 
     const posts = props.data.allMarkdownRemark.edges;
@@ -53,8 +54,7 @@ export const tagPageQuery = graphql`
       siteMetadata {
         title
         description
-        deskription
-        subdescription
+
       }
     }
     allMarkdownRemark(

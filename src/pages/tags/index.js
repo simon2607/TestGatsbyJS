@@ -9,14 +9,13 @@ const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
     site: {
-      siteMetadata: { title },
+      siteMetadata: { title, keywords } ,
     },
   },
 }) => (
   <Layout>
-     
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
+      <Helmet title={`Tags | ${title} ${keywords}`} />
       <div className="container content">
         <div className="columns">
           <div
@@ -49,8 +48,7 @@ export const tagPageQuery = graphql`
       siteMetadata {
         title
         description
-        deskription
-        subdescription
+        keywords
         
         
       }

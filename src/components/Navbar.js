@@ -38,6 +38,7 @@ const Navbar = () => {
                 to a ul for accessibilty purposes, would like to see a css
                 re-write that makes this unneccesary.
              */}
+          
           <li className="navbar-item" style={{ padding: "0px" }}>
             <Link className="navbar-item" to="/about">
               About

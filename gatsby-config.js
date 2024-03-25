@@ -3,11 +3,9 @@ module.exports = {
     heading:"Selamat Datang di Website Sekolah Kristen TK Generasi Kasih di Kabupaten Pati Juwana Jawa Tengah",
     title: "TK Generasi Kasih Juwana | Sekolah Kristen Terbaik di Juwana",
     description: "Sekolah Kristen TK Generasi Kasih Indonesia, Sekolah Kristen, TK Kristen di Juwana, pengalaman belajar yang memuaskan bagi anak Anda, Staf kami terdiri dari pendidikan yang berpengalaman yang peduli dan berdedikasi,", 
-    deskription: "",
-    subdescription:"",
-    author:"",
-    keywords: "",
-    url: "https://tkgenerasikasih.sch.id,", 
+    author:"simon",
+    keywords: "sekolah kristen terbaik, sekolah kristen terdekat,sekolah kristen pati, tk kristen dijuwana, kb generasi kasih, program generasi kasih, kegiatan generasi kasihpaud generasi kasih,tk generasi kasih juwana,genka,",
+    url: "https://tkgenerasikasih.sch.id", 
 
     },
   plugins: [
@@ -45,6 +43,7 @@ module.exports = {
     `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-babel-plugin-typescript-to-proptypes",
     {
       resolve: "gatsby-transformer-remark",
       options: {
